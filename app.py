@@ -10,7 +10,7 @@ from langchain.chains.question_answering import load_qa_chain
 import platform
 
 # App title and presentation
-st.title('Generación Aumentada por Recuperación (RAG) 💬')
+st.title('Voluntariado: Ayudar transforma el mundo. 💬')
 st.write("Versión de Python:", platform.python_version())
 
 # Load and display image
